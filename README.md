@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Currently Getting My Hands On **Web Development**
 
-- 👯 Ask me about **Python** or **Front-End Development**
+- 👯 Ask Me About **Python** or **Front-End Development**
 
 - 📫 Reach Me On Instagram or Twitter ***@rishvey***
 
